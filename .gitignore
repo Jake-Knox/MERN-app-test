@@ -1,0 +1,11 @@
+# Editor specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+
+# Dependencies (if you're using a monorepo setup)
+/packages/*/node_modules/
+
+# Project specific ignores (if needed)
